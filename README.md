@@ -1,16 +1,32 @@
-# chatapp
+📱 Chat Flutter App
+A simple yet elegant real-time chat application built using Flutter and Firebase, featuring:
 
-A new Flutter project.
+🔐 User Authentication (Signup & Login)
 
-## Getting Started
+🌙 Light & Dark Mode Support
 
-This project is a starting point for a Flutter application.
+🧑‍🤝‍🧑 View Registered Users
 
-A few resources to get you started if this is your first Flutter project:
+💬 Send & Receive Messages in Real-Time
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🚀 Features
+✅ Firebase Auth – Secure login and signup
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Dark/Light Theme – Switch effortlessly between themes
+
+✅ Firestore Database – Real-time message sync
+
+✅ User List – View all registered users
+
+✅ One-on-One Messaging – Chat privately with other users
+
+🎥 Demo
+👉 Watch on YouTube
+
+<p align="center"> <a href="https://www.youtube.com/watch?v=zhEDWY7VihA" target="_blank"> <img src="https://img.youtube.com/vi/zhEDWY7VihA/0.jpg" alt="Chat App Demo" width="70%"> </a> </p>
+🛠️ Tech Stack
+🖼️ Flutter – Frontend Framework
+
+💻 Dart – Programming Language
+
+🔥 Firebase – Backend (Authentication + Firestore Database)
