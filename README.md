@@ -36,8 +36,3 @@ A simple yet elegant real-time chat application built using **Flutter** and **Fi
 - 🖼️ **Flutter** – Frontend Framework  
 - 💻 **Dart** – Programming Language  
 - 🔥 **Firebase** – Backend (Authentication + Firestore Database)  
-
----
-
-## 📂 Project Structure
-
